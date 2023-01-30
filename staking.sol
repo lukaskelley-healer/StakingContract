@@ -441,4 +441,7 @@ contract StakeNFT {
     function getTotalBurn() public view returns (uint256){
         return burnToken;
     }
-}  
+}
+
+// NFTCONTRACT_ADDRESS: "0x0a7b31f6a8B3ff031064Ad2350bd82dF7e4A9Ddf"
+//  REWARDTOKEN_ADDRESS: "0xA525AE454ABc985eFdc8867F42ee95dAA362F129"
